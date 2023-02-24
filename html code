@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>THE FIRST WEBSITE</title>
+</head>
+<body>
+
+    <!--New cute website-->
+    <h1>This is getting very intresting!</h1>
+    <hr>
+    <h2>I LOVE LEARNING HOW TO CODE NOW</h2>
+    <br>
+    <h3>This is somewhat fun.</h3>
+    <p>This is me learning how to create my first website</p>
+    <p>Its proper easy for now </p>
+    <p>I just hope it stays like this for a while</p>
+
+    <a href="https://www.google.com" target="_self" title="This takes you right back to Google">
+        Google
+        <br>
+    </a>
+    <a href="secondPage.html" target="_self" title="This takes you to my other website">
+        MY OTHER WEBSITE
+    </a>
+    <br>
+    <a href="fakeemail@gamil.com" target="_self" title="This my email, we can communicate here">
+        Email me
+    </a>
+    
+</body
+
+</html>
